@@ -2,7 +2,8 @@
 <resources>
     <color name="ColorPrimary">#2196F3</color>
     <color name="ColorPrimaryDark">#1976D2</color>
-    <color name="tabsScrollColor">#FFF</color>
+    <!--put indicator color -->
+    <color name="tabsScrollColor">@android:color/white</color>
     <color name="ColorAccent">#E91E63</color>
 
 </resources>

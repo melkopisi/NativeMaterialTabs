@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@android:color/white" android:state_selected="true" />
+    <!-- put tabs text color "focused" -->
     <item android:color="@android:color/white" android:state_focused="true" />
+    <!-- put tabs text color "when pressing" -->
     <item android:color="@android:color/white" android:state_pressed="true" />
+    <!-- put tabs text color "unfocused" -->
     <item android:color="#BBDEFB" />
 </selector> 
